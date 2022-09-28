@@ -14,4 +14,4 @@ To run my program you would have to install npm first to get all of the dependen
 
 ## URL's
 
-Github: 
+Github: https://github.com/saucymj/Team-Profile-Generator
